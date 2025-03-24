@@ -10,6 +10,6 @@ Toolbox is a set of tools developped by orangeidle25. It was developped in Pytho
 - QR Code generator
 - Alarms
 
-More tools will be added in the near future, along with new features for the existing tools.
+More tools will be added in the near future, along with new features for the existing tools. You can download the file via releases.
 
 Thank you for supporting my project, orangeidle25 💙
