@@ -13,7 +13,7 @@ import winsound
 class ToolboxApp(tk.Tk):
     def __init__(self):
         super().__init__()
-        self.title("Toolbox v1.0")
+        self.title("Toolbox v1.0.0")
         self.style = ttk.Style(self)
         self.style.theme_use("clam")
         self.geometry("900x700")
